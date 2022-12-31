@@ -1,5 +1,6 @@
-# MATCH ANALYSIS: CORINTHIANS (0) v SANTOS (0)
-## June 25 2022
+# MATCH ANALYSIS: CORINTHIANS (0) v SANTOS (0) June 25 2022
+## Pranav Natarajan
+### pn12@uw.edu
 
 Contains Code for Data and Visualisation for the Match Analysis of `Corinthians vs Santos` in the `Brasileirão Serié-A` on June 25 2022.
 
