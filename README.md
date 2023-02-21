@@ -6,7 +6,8 @@ Contains Code for Data and Visualisation on Tableau for the Match Analysis of `C
 
 The data is obtained from `Opta` provided statistics on [FootballReference](https://fbref.com/en/matches/4bf12498/Corinthians-Santos-June-25-2022-Serie-A) using the [ScraperFC](https://scraperfc.readthedocs.io/en/latest/fbref_examples.html) module on Python.
 
-To examine the data, check out the Jupyter Notebook [here](main_analysis.ipynb)
+Check out the code for the project [here](main_analysis.py)
+To examine the data, download the Jupyter Notebook [here](main_analysis.ipynb)
 
 **To look at the Tableau Dashboard of my Analysis on my Tableau Public Profile, please click this [Link](https://public.tableau.com/views/CORvSANJun_25_2022Seri-AMatchAnalysis/PostMatchAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link).**
 
